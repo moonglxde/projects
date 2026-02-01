@@ -14,7 +14,7 @@ Processing 100 IoT sensor readings with NumPy.
 NumPy - Matplotlib - Jupyter - GitHub
 ```
 
-## 🎯 Recruiter Skills
+## 🎯 Skills Demonstrated
 - Array manipulation
 - Statistical analysis  
 - Data processing pipeline
